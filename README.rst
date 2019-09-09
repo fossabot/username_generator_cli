@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fawesmubarak%2Fusername_generator_cli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fawesmubarak%2Fusername_generator_cli?ref=badge_shield)
+
 Username generator
 ==================
 
@@ -53,3 +55,7 @@ Open a terminal and run ``usernames``. The following options are available:
 +---------------------------+------------------------------------------+
 | ``--no_intro``            | Hide short introductory notes            |
 +---------------------------+------------------------------------------+
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fawesmubarak%2Fusername_generator_cli.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fawesmubarak%2Fusername_generator_cli?ref=badge_large)
